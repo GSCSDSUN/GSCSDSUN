@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### GPG Public Key
+``
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEZdymGxYJKwYBBAHaRw8BAQdA0PQr/D+80h2i7wk7vmAK6qFpVYEsDzmQhuJ+
 4jTizXK0HkdTQ1NEU1VOIDxnc2NzZHN1bmxAZ21haWwuY29tPoiTBBMWCgA7FiEE
@@ -28,3 +29,4 @@ AwEIB4h4BBgWCgAgFiEEOirXBoh5xShR0jQK8p9S5CDVNUcFAmXcphsCGwwACgkQ
 dxXPSo1Shxegs6ET7nJqBZuh2O+kzDzd5UfjOP0L
 =3hkW
 -----END PGP PUBLIC KEY BLOCK-----
+``
